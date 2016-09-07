@@ -1,9 +1,9 @@
 # Decomposição LU e suas Aplicações
 
 Suponha que possamos escrever uma matriz **A** como o produto de duas matrizes:
-<div style="text-align:center">
-L.U = A
-</div>
+
+<kbd>#L.U = A</kbd>
+
 
 
 Onde **L** é *lower triangular* (composta por elementos da diagonal para baixo)
