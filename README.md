@@ -17,3 +17,4 @@ O relatório deve demonstrar que a atividade foi realizada com sucesso associand
 
 ===
 #Exemplo
+https://cloud.githubusercontent.com/assets/19763622/18296081/228fabaa-747d-11e6-8698-1964aa15ef52.PNG
