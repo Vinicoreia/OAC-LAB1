@@ -2,7 +2,7 @@
 
 Suponha que possamos escrever uma matriz **A** como o produto de duas matrizes:
 
-->L.U = A<-
+<center>L.U = A</center>
 
 <p>
 
