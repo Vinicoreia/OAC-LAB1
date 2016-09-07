@@ -2,7 +2,7 @@
 
 Suponha que possamos escrever uma matriz **A** como o produto de duas matrizes:
 
-                                               L.U = A                           
+                                     L.U = A
 
 
 
@@ -16,9 +16,9 @@ determinante for diferente de zero.
 
 A decomposição LU é basicamente uma forma diferente da eliminação gaussiana e
 suas aplicações variam entre resoluções de sistemas de equações lineares,
-calculo do determinante e calculo da matriz inversa.
+cálculo do determinante e cálculo da matriz inversa.
 
 
 ### Exemplo
-<center>
-![alt text](https://cloud.githubusercontent.com/assets/19763622/18297533/8d91c730-7487-11e6-97d0-e13ec772c944.PNG) </center>
+
+  ![alt text](https://cloud.githubusercontent.com/assets/19763622/18297533/8d91c730-7487-11e6-97d0-e13ec772c944.PNG)
