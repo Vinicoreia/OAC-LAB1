@@ -4,13 +4,13 @@ Suponha que possamos escrever uma matriz **A** como o produto de duas matrizes:
 <div style="text-align:center">
 L.U = A
 </div>
-<p>
+
 
 Onde **L** é *lower triangular* (composta por elementos da diagonal para baixo)
 e **U** é *upper triangular* (composta por elementos da diagonal para cima),
 isso para qualquer matriz quadrada. Essa técnica é usada para resolver sistemas
 de equações de uma forma mais eficiente ou encontrar as matrizes inversas.
-</p>
+
 As matrizes L e U são unicas se a matriz não é singular, ou seja se seu
 determinante for diferente de zero.
 
