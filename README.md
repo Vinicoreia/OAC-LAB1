@@ -16,9 +16,6 @@ Uma matriz que possui o mesmo número de linhas e colunas é chamada matriz quad
 M : n × n− > R
 é uma matriz quadrada de ordem n.
 A diagonal principal de uma matriz M é a coleção das entradas M [i, i] ou seja, os elementos onde o número de linha e da coluna são iguais. No exemplo a seguir a diagonal principal é composta apenas por 1’s.
-===
-#Exemplo
-![alt text](https://cloud.githubusercontent.com/assets/19763622/18296081/228fabaa-747d-11e6-8698-1964aa15ef52.PNG)
 
 #Materiais e Métodos
 ##Materiais
